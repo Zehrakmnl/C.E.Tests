@@ -1,0 +1,20 @@
+﻿il//1//Adana
+il//2//Adıyaman
+ilce//34//Kasımpaşa
+il//6//Ankara
+il//34//İstanbul
+ilce//1//Pozantı
+ilce//1//Aladağ
+ilce//1//Feke
+ilce//6//Sincan
+ilce//6//Etimesgut
+ilce//6//Yenimahalle
+ilgi//Müzik dinlemek
+ilgi//Resim çizmek
+ilgi//TV seyretmek
+ilce//34//Bakırköy
+ilce//34//Beyoglu
+ilgi//Futbol oynamak
+ilce//2//Kahta
+il//42//Konya
+ilce//42//Selçuklu
